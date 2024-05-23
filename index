@@ -1,0 +1,482 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meat http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EASTC CONVOCATION CEREMONY</title>
+
+    <!--font awesome cdn link-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+
+    <!--custom css file link-->
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    
+
+<!--header section starts-->
+
+   <div class="header">
+      <div class="container">
+          <a href="#" class="logo"> <img style="background-color: #fff;"  src="image/2.png" style="width: 1540px;" alt=""></a>
+      </div>
+   </div>
+        <div class="header_bottom" style="background-color:steelblue">
+            <div class="container">
+                    <nav class="main_nav">
+                        <ul>
+                           <li><a href="#home">home</a></li>
+                           <li><a href="#about">about</a></li>
+                           <li><a href="#schedule">schedule</a></li>
+                          <li><a href="#Prizes">Prizes</a></li>
+                          <li><a href="#Guest Of Honor">Guest Of Honor</a></li>
+                         <li><a href="#presentation">presentation</a></li>
+                        </ul>
+                    </nav>
+            </div> 
+            
+        </div>
+        
+        </div>    
+            <div class="banner">
+                 <img  src="image/IMG-20240516-WA0062.jpg">
+            </div>
+
+
+
+
+<!--header section ends-->
+
+
+
+<!--about section starsts-->
+<section  class="about" id="about">
+   <div class="row">
+
+    </div>
+
+   <div class="content">
+
+    <h3>convocation ceremonies</h3>
+   
+   <p>"
+    This is 7th convocation of the Eastern Africa Atatistical Training Centre of the year 2024 continues the tradition within academic institution of gathering together academicians, students, alumni, benefactors, and industry professionals as stakeholders of the university community. 
+    Here you will find information relevant to the ceremonies, including schedule, location, ticket information and more.
+    Your ceremony will be determined by the Faculty you will be graduating from as well as your degree and major.
+
+    <p>African Statistical Day is celebrated each year on 18th of November.The commemoration aims among others, to increase public awerness about the important role which statistics play in all aspect of social and economic development."   </p>
+      <p style="font-style: bold;">The Theme states "Modernizing data ecosystems to accelerate the implementation of Africa continental free Trade Area (AfCFTA): The role of official statistics and big data in the economic transformation and sustainable development of Africa"</p>   
+        
+    </div>
+   </div>
+   </div>
+</section>
+<!--about section ends-->
+
+<!--schedule section starts-->
+
+<section class="schedule" id="schedule">
+    <h2>PROGRAM TIMETABLE</h2>
+    <style>
+        table, th, td {
+          border: 1px solid;
+        }
+    
+        th, td{
+            padding: 5px;
+            text-align: left;
+    }
+        </style>
+    <table style="width:107%">
+        <tr>
+          <th>Time</th>
+          <th>Activity</th> 
+          <th>Responsible</th>
+        </tr>
+        <tr>
+          <td>8:30-9:30</td>
+          <td>Registration</td>
+          <td>All,secretariat</td>
+        </tr>
+        <tr>
+          <td>9:30-9:35</td>
+          <td>Presenting the program</td>
+          <td>M.C.</td>
+        </tr>
+        <tr>
+          <td>9:35-9:45</td>
+          <td>Introduction of Guests and Welcoming remarks</td>
+          <td>President of the convocation</td>
+        </tr>
+         <tr>
+            <td>9:45-10:00</td>
+            <td>opening remark,constituting the convocation and preamble to the award presentation</td>
+            <td>Rector</td>
+        </tr>
+        <tr>
+            <td>10:00-10:20</td>
+            <td>Awarding prizes to the best students</td>
+            <td>Rector, Guest of Honor</td>
+        </tr>
+        <tr>
+            <td>10:20-10:40</td>
+            <td>Certificate  of merits to EASTCSO leaders</td>
+            <td>Rector, Guest of Honor</td>
+        </tr>
+        <tr>
+            <td>10:40-11:20</td>
+            <td>keynote address</td>
+            <td>Guest of Honor</td>
+        </tr>
+        <tr>
+            <td>11:20-11:35</td>
+            <td>1st Experience sharing</td>
+            <td>Presenter(alumni OCSG)</td>
+        </tr>
+        <tr>
+            <td>11:35-11:45</td>
+            <td>2nd Experience sharing</td>
+            <td>Presenter(alumni-IFI)</td>
+        </tr>
+        <tr>
+            <td>11:45-12:00</td>
+            <td>3rd presentation</td>
+            <td>lecturer(female-Rector's Award Research and Publications)</td>
+        </tr>
+        <tr>
+            <td>12:00-12:15</td>
+            <td>4th presentation</td>
+            <td>lecturer(male-Rector's Award Research and Publication)</td>
+        </tr>
+        <tr>
+            <td>12:15-12:20</td>
+            <td>Experience from Africa Statistical Day</td>
+            <td>participant(mr john Behitsa)</td>
+        </tr>
+        <tr>
+            <td>12:20-13:40</td>
+            <td>Discussion</td>
+            <td>All,MC</td>
+        </tr>
+        <tr>
+            <td>13:40-13:45</td>
+            <td>vote of thanks</td>
+            <td>Rector</td>
+        </tr>
+        <tr>
+            <td>13:45</td>
+            <td>Departure</td>
+            <td>Guest of Honor & Rector</td>
+        </tr>
+        <tr>
+            <td>13:45-14:00</td>
+            <td>Group photo</td>
+            <td>MC</td>
+        </tr>
+        <tr>
+            <td>14:00-15:00</td>
+            <td>Annual general meeting</td>
+            <td>president of convocation secretary, EASTC students & alumni</td>
+        </tr>
+        <tr>
+            <td>15:00-15:05</td>
+            <td>vote of thanks and closing</td>
+            <td>president of the convoxation</td>
+        </tr>
+      </table>
+      
+</section>
+
+
+
+
+
+
+
+<!--schedule section end-->
+
+
+<!--Prizes section starts-->
+
+<section class="Prizes" id="Prizes">
+    <h1 class="heading"><span>Prizes</span></h1>
+    <div class="content">
+        <h3>A. The Rector's Prizes </h3>
+        <p>1.an award to the student with highest GPA overall amongst the graduands in the master of official statistics. the prize will be a crystal prize, certificate, and Tsh. 300,000.</p>
+        <p>2.An award to the student with the highest GPA overall amongst the graduands in the Bachelor of official Statistics, Bachelor of data science, Bachelor of agriculture statistics and Bachelor of Business statistics. the prize will be crystal prize, certificate, and Tsh.250,000.</p>
+        <p>3.An award to the student with the highest GPA overall amongst the graduands the ordinary Diploma in statistics. the prize will be a crystal prize, certificate, and Tsh. 200,000.</p>
+        <p>4.An award to the student with the highest GPA overall amongst the graduands in the Technician Certificate in Statistics and IT. the prize will be a crystal prize, Certificate, and Tsh. 100,000.</p>
+        <p>5.An award to the male and female academic staff for Research and publications. the award is to; 1. first Authorship:the degree to which the nominee served as the primary contributor to the research; 2. peer review journal-Double blinded: confirmation that the publication underwent a rigorous double -blinded peer review; 3. Publication year -2021/22, 2022/23 and 2023/24: Eligibility limited to publication within the specific time frame. The prize will be a Tsh. 500,000 each. </p>
+       <h3>B. NBS Prize</h3>
+       <p>An award to the student with the highest GPA overall amongst the graduands in the master of official statistics.</p>
+       <h3>C. OCGS Prize</h3>
+       <p>An award to the student with the highest GPA overall amongst the graduands in the master of official statistics</p>
+       <h3>D. Data Vission Prize</h3>
+        <p>An award to the student with the highest GPA overall amongst the graduands in the Bachelor of official, Bachelor of data science, Bachelor of agriculture statistics and Bachelor of Business statistics.</p>
+    </div>
+
+
+
+<!--Prizes & award section starts-->
+
+
+<!--Guest Of Honor section starts-->
+
+<section class="Guest Of Honor">
+    <h1 class="heading"><span>Guest Of Honor</span></h1>
+    <div class="content">
+        <h3>Guest Of Honor</h3>
+        <p>Most of the award presented are funded by EASTC. i offer my sincere thanks to all of those who sponsored the various award of their choice. we are glad that you have joined us in celebrate excellence in our instution. i wish to encourage staff to sponsor various prize for any category of their choice. i specifically challege both the public and private sectors to support our effort at improving academic quality scince the ultimate beneficiary is the industry. Those interested please do not hesitate to contact my office for further clarification.</p>
+       <p>having said that, "by the power vested in me, as the EASTC Rector, I now constitute and call upon this gathering to be an official accedemic forum and therefore declare this the 7th convocation of the Eastern Africa Statistical Training Centre on 5 day of December 2024"</p>
+       <h3>Guest of Honor</h3>
+       <p>i welcome you to award the prize to those that i will call out and then address this 7th EASTC Convocation!</p>
+       <h3>PRESENTATION OF BEST STUDENT AWARD AND CERTIFICATES OF MERIT FOR THE ACADEMIC YEAR 2023/2024</h3>
+       <P>To be presented by the Guest of Honor, prof.Fortunata Sogora Makene</P>
+       
+
+    </div>
+    <div class="award">
+        <style>
+            table, th, td {
+              border: 1px solid black;
+              border-collapse: collapse;
+            }
+            th, td {
+              padding: 15px;
+              font-size: 1.7rem;
+            }
+            </style>
+        <h1 style="font-style: BOLD;" Sstyle="font-size:2rem;">1. BEST STUDENT AWARD:Overaall perfomers</h1>
+        <h2 style="font-style: BOLD;" Sstyle="font-size:2rem;">1.1. Master of official statistics</h2>
+        
+
+          
+
+  <h2 style="font-style: BOLD;" style="margin-top: 2rem;" style="font-size:2rem;"> 1.2. Bachelor Degree</h2>
+        
+  <table style="width:100%">
+    <tr>
+      <th>REG.NO.</th>
+      <th>Sex</th> 
+      <th>First Name</th>
+      <th>Middle Name</th>
+      <th>Surname</th>
+      <th>GPA</th>
+    </tr>
+    
+    <tr>
+        <td>EASTC/BDTS/22/0156</td>
+        <td>M</td>
+        <td>KENNEDY</td>
+        <td>ONYSNGO</td>
+        <td>DEDE</td>
+        <td>4.6</td>
+      </tr>
+      <tr>
+        <td>EASTC/BOS/22/0165</td>
+        <td>M</td>
+        <td>AMANI</td>
+        <td>KENNEDY</td>
+        <td>MOSESS</td>
+        <td>4.546</td>
+      </tr>
+      <tr>
+        <td>EASTC/BBSE/22/0134</td>
+        <td>F</td>
+        <td>AISHA</td>
+        <td>IBRAHAM</td>
+        <td>JUMA</td>
+        <td>4.7</td>
+      </tr>
+      <tr>
+        <td>EASTC/BASE/22/0154</td>
+        <td>M</td>
+        <td>JUMA</td>
+        <td>ALLY</td>
+        <td>JUMA</td>
+        <td>4.678</td>
+      </tr>
+  </table>
+  <p style="font-size: 2rem;">where we can add other students that get greater GPA, accedemic staff prizes,the rector prizes that award "male and female academic staff for Research and publications" and certificates of merits for 2023/2024 EASTC Student Organization leaders.</p>
+    </div>
+</section>
+
+
+
+
+
+<!--Guest Of Honor section end-->
+
+<!--presentation section starts-->
+
+<section class="presentation" id="presentation">
+    <h1 class="heading"><span>presentation</span></h1>
+    <div class="content">
+      <h2> SPEECH: KEYNOTE ADDRESS BY THE GUEST OF HONOR
+        Guest Of Honor: prof.Fortunata Songora Makene
+      </h2>
+      <p>(Guest of Honor:prensentation)</p>
+
+
+      <h1>PRESENTATION</h1>
+      <h2>presenter 1: Mr. Hadid R. Hadid</h2>
+      <p>"where can add the content of his presentation"</p>
+
+      <p>We can another presentation </p>
+
+
+
+
+<!--presentation section ends-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--footer section start-->
+<section class="footer">
+
+    <div class="content">
+      <div class="col-lg-2 col-md-6 col-sm-12">
+        <h3 class="footer-heading"><span><u>Quick Links</u></span></h3>
+        <ul class="list-style-type:none;">
+            <li><a href="https://payment.eastc.ac.tz/index.php?r=bill%2Fcreate" target="_blank">EASTC Payment Portal</a></li>
+            <li><a href="https://sis.eastc.ac.tz/old" target="_blank">Student IS</a></li>
+            <li><a href="https://sis.eastc.ac.tz" target="_blank">Student IS(<i class="fa-blink" style="color:gold">New Student</i>)</a></li>
+            <li><a href="https://olap.eastc.ac.tz/" target="_blank">Online Application</a></li>
+            <li><a href="https://shortcourse.eastc.ac.tz/create" target="_blank">Short Course Application</a></li>
+            <li>
+                <a href="https://mail.google.com" target="_blank">EASTC Mail</a>
+            </li>
+
+                                        
+
+            <li><a href="../../backend/web/files/docs/EASTC ALMANAC 2023-2024  FINAL.docx.pdf" target="_blank" data-pjax="0">EASTC Almanac</a></li>
+            <li><a href="../../backend/web/files/docs/EASTC PROSPECTUS 30 May 2022.doc" target="_blank" data-pjax="0">Prospectus</a></li>
+
+
+
+            <!-- <li><a href="/index.php?r=site%2Falumni">EASTC Alumni</a></li> -->
+
+        </ul>
+    </div>
+
+    <div class="col-lg-2 col-md-6 col-sm-12">
+      <div class="futta">
+        <h3 class="footer-heading"><span>EASTC Collaborators</span></h3>
+        <ul class="list-style-type:none;">
+            <li><a href="https://www.nagarjunauniversity.ac.in/indexanu.html" target="_blank">Acharya Nagarjuna University</a></li>
+            <li><a href="http://www.isi-web.org/" target="_blank">International Statistical Institute</a></li>
+            <li><a href="https://www.isical.ac.in/" target="_blank">Indian Statistical Institute</a></li>
+            <li><a href="https://iasri.res.in/" target="_blank">Indian Agricultural Statistics Research Institute </a></li>
+            <li><a href="http://mospi.nic.in/Mospi_New/site/inner.aspx?status=2&amp;menu_id=26" target="_blank">National Statistical Systems Training Academy</a></li>
+            <li><a href="https://www.sua.ac.tz/" target="_blank">Sokoine University of Agriculture</a></li>
+            <li><a href="https://www.out.ac.tz/" target="_blank">Open University of Tanzania</a></li>
+        </ul>
+        </div>
+    </div>
+
+    <div class="col-lg-3 col-md-6 col-sm-12">
+        <h3 class="footer-heading"><span>Related Links</span></h3>
+        <ul class="list-style-type:none;">
+            <li><a href="https://www.nbs.go.tz/index.php/en/" target="_blank">National Bureau of Statistics (NBS)</a></li>
+            <li><a href="https://www.worldbank.org/en/home" target="_blank">World Bank</a></li>
+            <li><a href="https://www.tcu.go.tz/" target="_blank">Tanzania Commission For Universities (TCU)</a></li>
+            <li><a href="https://www.heslb.go.tz/" target="_blank">Higher Education Students' Loans Board (HELSB)</a></li>
+            <li><a href="https://www.nacte.go.tz/" target="_blank">The National Council for Technical and Vocational Education and training (NACTVET)</a></li>
+            <li><a href="https://www.uneca.org/" target="_blank">United Nations Economic Commission for Africa (UNECA)</a></li>
+            <li><a href="https://datavision.co.tz/" target="_blank">DataVision International</a></li>
+            <li><a href="https://www.eac.int/" target="_blank">East African Community (EAC)</a></li>
+            <li><a href="https://unstats.un.org/UNSDWebsite/statcom/" target="_blank">United Nations Statistical Commission</a></li>
+            <!-- 
+            <li><a href="#">Business Administration</a></li>
+            <li><a href="#">Computer Science</a></li> -->
+        </ul>
+    </div>
+
+    <div class="col-lg-2 col-md-6 col-sm-12">
+        <h3 class="footer-heading"><span>Contact</span></h3>
+        <ul class="list-style-type:none;">
+            <li>
+                <span>Eastern Africa Statistical Training Centre,</span>
+            </li>
+            <li>
+                <span>P.O Box 35103,</span>
+            </li>
+
+            <li>
+                <span>Dar es Salaam, Tanzania</span>
+            </li>
+
+            <li>
+                <span>Phone: +255 22 2925000 or +255 (784,735) 784 106</span>
+            </li>
+
+            <li>
+                <span><a href="mailto:info@eastc.ac.tz" target="_blank" style="color:white">Email: info@eastc.ac.tz</a></span>
+            </li>
+
+        </ul>
+    </div>
+
+    <div class="col-md-12 col-lg-2 d-flex justify-content-center">
+        <div class="text-center">
+            <h3 class="footer-heading"><span>Follow Us</span></h3>
+           <!-- <div class="social-wrap">
+                <a href="https://www.facebook.com/EASTCplanwithfigures/?mibextid=ZbWKwL" target="_blank"><span class="fab fa-facebook-f" style="color:#395693; font-size:20px;"></span></a>
+                <a href="https://twitter.com/planwithfigures" target="_blank"><span class="fab fa-twitter" style="color:cyan; font-size:20px;"></span></a>
+                <a href="https://www.instagram.com/eastc2018/?hl=en" target="_blank"><span class="fab fa-instagram" style="color:#bc2a8d; font-size:20px;"></span></a>
+                <a href="https://www.youtube.com/channel/UCp7KhJ7gvIWbXGv3s9_mwIg" target="_blank"><span class="fab fa-youtube" style="color:#c4302b; font-size:20px;"></span></a>
+            </div>-->
+
+            <div>
+                                            <a href="https://www.facebook.com/EASTCplanwithfigures/?mibextid=ZbWKwL" target="_blank"><img src="image/fgif1.gif" style="width: 4%;"></a>
+                <a href="https://twitter.com/planwithfigures" target="_blank"><img src="image/twgif2.gif" style="width: 4%;"></a>
+                <a href="https://instagram.com/chuo_cha_takwimu?igshid=NGExMmI2YTkyZg==" target="_blank"><img src="image/inst.gif" style="width: 4%;"></a>
+                <a href="https://www.youtube.com/channel/UCp7KhJ7gvIWbXGv3s9_mwIg" target="_blank"><img src="image/utube.gif" style="width: 4%;"></a>
+            </div>
+
+        </div>
+    </div>
+
+<div class="row">
+  <div class="col-12">
+      <div style="color: #fff;" class="copyright">
+          <p>
+              <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+              Copyright ©<script>
+                  document.write(new Date().getFullYear());
+              </script>2024 All rights reserved | Eastern Africa Statistical Training Centre
+              <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+              <a style="opacity:.04">@pm</a>
+          </p>
+
+
+      </div>
+  </div>
+</div>
+
+
+<!--footer section start-->
+
+
+
+
+
+
+
+
+<!--custom js file link-->
+<script src="js/script.js"></script>
+
+</body>
+</html>
